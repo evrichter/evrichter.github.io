@@ -11,8 +11,7 @@
               {% if link.title == "About" %}
                 {% if  page.lang == "en" %}
                   <li class="masthead__menu-item"><a href="{{ domain }}/de/about">DE</a></li>
-                {% endif %}
-                {% if  page.lang == "de" %}
+                {% else %}
                   <li class="masthead__menu-item"><a href="{{ domain }}/en/about">EN</a></li>
                 {% endif %}
               {% else %}
