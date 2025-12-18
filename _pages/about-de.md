@@ -1,11 +1,11 @@
 ---
-title: "👋 Hi,"
-permalink: /about/
+title: "about-de"
+permalink: /de/about/
 layout: single
 author_profile: true
 lang: de
 alt_lang: /en/about/
 redirect_from:
-  - /about.html
+  - /de/about
 ---
 ...deutscher Inhalt...
