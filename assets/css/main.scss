@@ -41,7 +41,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+.layout--single .page__content p,
+.layout--home .page__content p,
 .page__content p {
-  text-align: justify;
+  text-align: justify !important;
   hyphens: auto;
 }
