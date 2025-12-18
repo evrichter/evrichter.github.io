@@ -2,13 +2,13 @@
 title: "👋 Hi, there"
 permalink: 
   - /en/about/
-  - /
 layout: single
 author_profile: true
 lang: en
 redirect_from: 
   - /about/
   - /about.html
+  - /
 ---
 
 I'm Eva🙂. Currently, I work in the field of *Data Analytics*, where I focus on understanding data, building models, and creating visualizations, mainly in the Azure-based BI context.
