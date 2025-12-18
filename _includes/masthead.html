@@ -11,8 +11,10 @@
               {% if link.title == "About" %}
                 {% if  page.lang == "en" %}
                   <li class="masthead__menu-item"><a href="{{ domain }}/de/about">DE</a></li>
-                {% else %}
+                {% endif %}
+                {% if  page.lang == "de" %}
                   <li class="masthead__menu-item"><a href="{{ domain }}/en/about">EN</a></li>
+                {% endif %}
               {% endif %}
              {% if link.url contains 'http' %}
                 {% assign domain = '' %}
