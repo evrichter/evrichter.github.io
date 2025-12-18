@@ -1,10 +1,10 @@
 ---
-permalink: /
-title: "👋 Hi there, "
+title: "👋 Hi, there"
+permalink: /en/about/
+layout: single
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+lang: en
+alt_lang: /about/
 ---
 
 I'm Eva🙂. Currently, I work in the field of *Data Analytics*, where I focus on understanding data, building models, and creating visualizations, mainly in the Azure-based BI context.
