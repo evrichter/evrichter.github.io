@@ -1,7 +1,6 @@
 ---
 title: "👋 Hi, there"
-permalink: 
-  - /en/about/
+permalink: /en/about/
 layout: single
 author_profile: true
 lang: en
