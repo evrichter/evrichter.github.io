@@ -14,6 +14,12 @@
                 {% else %}
                   <li class="masthead__menu-item"><a href="{{ domain }}/en/about">EN</a></li>
                 {% endif %}
+              {% elsif link.title == "CV" %}
+                {% if  page.lang == "en" %}
+                  <li class="masthead__menu-item"><a href="{{ domain }}/files/CV-de.pdf">CV-de</a></li>
+                {% else %}
+                  <li class="masthead__menu-item"><a href="{{ domain }}/files/CV.pdf">CV-en</a></li>
+                {% endif %}
               {% else %}
                 {% if link.url contains 'http' %}
                     {% assign domain = '' %}
