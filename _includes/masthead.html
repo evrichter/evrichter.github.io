@@ -9,16 +9,16 @@
           <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
               {% if link.title == "About" %}
-                {% if  page.lang == "en" %}
+                {% if page.lang == "en" %}
                   <li class="masthead__menu-item"><a href="{{ domain }}/de/about">DE</a></li>
                 {% else %}
                   <li class="masthead__menu-item"><a href="{{ domain }}/en/about">EN</a></li>
                 {% endif %}
               {% elsif link.title == "CV" %}
-                {% if  page.lang == "en" %}
-                  <li class="masthead__menu-item"><a href="{{ domain }}/files/CV_English.pdf">CV</a></li>
+                {% if page.lang == "en" %}
+                  <li class="masthead__menu-item"><a href="{{ domain }}/files/CV_English.pdf">CVen</a></li>
                 {% else %}
-                  <li class="masthead__menu-item"><a href="{{ domain }}/files/CV_German.pdf">CV</a></li>
+                  <li class="masthead__menu-item"><a href="{{ domain }}/files/CV_German.pdf">CVde</a></li>
                 {% endif %}
               {% else %}
                 {% if link.url contains 'http' %}
