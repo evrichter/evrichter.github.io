@@ -1,7 +1,10 @@
 ---
+title: "Home"
 permalink: /
 layout: single
-title: "Home"
+author_profile: true
+lang: en
+redirect_from:
+  - /
 ---
-
-THIS IS THE MAIN PAGE
+Home
