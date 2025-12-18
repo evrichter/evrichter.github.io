@@ -25,9 +25,9 @@ author:
   avatar           : "profile_pic.jpeg"
   name             : "Eva Richter"
   pronouns         : # example: "she/her"  
-  bio              : "Data Expert, NLP Enthusiast"
+  bio              : "Data Analytics, Data Science & NLP"
   location         : "Saarbrücken, Germany"
-  employer         : "Previsionz"
+  #employer         : "Previsionz"
   uri              : # URL
   email            : "evri33@aol.de" 
 
