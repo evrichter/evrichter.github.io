@@ -9,6 +9,9 @@
 
 main:
 
+  - title: ""
+    url: /files/CV.pdf
+
   - title: "About"
     url: /about/   
     
