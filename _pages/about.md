@@ -4,7 +4,6 @@ permalink: /en/about/
 layout: single
 author_profile: true
 lang: en
-alt_lang: /about/
 redirect_from: 
   - /about/
   - /about.html
