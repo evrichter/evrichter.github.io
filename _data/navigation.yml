@@ -15,9 +15,6 @@ main:
   - title: "CV"
     url: /files/CV_English.pdf
 
-  - title: "Certificates"
-    url: /certificates/
-
   - title: "About"
     url: /en/about/
     
