@@ -10,16 +10,15 @@ redirect_from:
   - /
 ---
 
-I'm Eva🙂. Currently, I work in the field of *Data Analytics*, where I focus on understanding data, building models, and creating visualizations, mainly in the Azure-based BI context.
+I'm Eva🙂. This website is mainly a personal space for me to keep track of projects, ideas, and things I am learning along the way. Currently, I work in the field of *Data Analytics*, where I focus on understanding data, building models, and creating visualizations, mainly in the Azure-based BI context.
 
 My academic background is in *Language Science and Technology*, where I studied how language can be processed by computers. During my Master’s at Saarland University, I worked with topics such as *natural language processing*, *psycholinguistics*, and *speech technology*.
 As part of my studies, I spent two exchange semesters at *Pompeu Fabra University* (Barcelona) and *Charles University* (Prague), and completed a traineeship at the *European Parliament* in Brussels. These experiences allowed me to work more deeply on NLP-related topics and gain experience in international and interdisciplinary settings.
 
-Before that, I studied Linguistics and Translation at Saarland University, focusing on core linguistic areas such as phonetics and pragmatics, as well as translation technologies and CAT tools. My bachelor’s thesis on the evaluation of machine translation output was my first exposure to language technology and AI.
+Before that, I studied Linguistics and Translation at Saarland University, focusing on core linguistic areas such as phonetics and pragmatics, as well as translation technologies and CAT tools. My bachelor’s thesis on machine translation evaluation was my first exposure to language technology and AI.
 
-Ever since, I have been fascinated by how technology can process complex language and support human communication. Today, I work in a more *data-driven and business intelligence–focused role*, while remaining strongly interested in *NLP applications*, especially in areas such as *healthcare* and *cognitive language processing*.
+Ever since, I have been fascinated by how technology can process complex language and support human communication. Today, I work in a business intelligence–focused role, while remaining strongly interested in NLP applications, especially in areas such as *AI in healthcare* and *cognitive language processing*.
 
-This website is mainly a personal space for me to keep track of projects, ideas, and things I am learning along the way.
 In my free time, I love learning new languages, travelling and taking *(too many😄)* photos along the way.
 
 <!-- For more info
