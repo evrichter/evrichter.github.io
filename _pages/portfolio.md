@@ -10,23 +10,16 @@ share: false
 
 <img src="/images/DP-900.jpg" style="max-width: 550px; height: auto;">
 
-Issued by Microsoft.  
-*(Date, credential ID, verification link can be added here.)*
-
 ---
 
-## Azure Learning Assessment
+## Coursera: Advanced Learning Algorithms
 
 <img src="/images/ALA.jpg" style="max-width: 550px; height: auto;">
 
-Issued by Microsoft.  
-*(Date, credential ID, verification link can be added here.)*
 
 ---
 
-## Supervised Machine Learning
+## Coursera: Supervised Machine Learning
 
 <img src="/images/SML.jpg" style="max-width: 550px; height: auto;">
 
-Issued by Microsoft.  
-*(Date, credential ID, verification link can be added here.)*
