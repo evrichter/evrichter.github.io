@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "TBD'>"
+excerpt: "In Progress"
 collection: portfolio
 ---
 
