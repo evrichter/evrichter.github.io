@@ -5,27 +5,27 @@ layout: single
 author_profile: true
 ---
 
-Issued by Microsoft.
+## Microsoft: Azure Data Fundamentals (DP-900)
 
-Microsoft: Azure Data Fundamentals (DP-900)
-<br/>
 <img src="/images/DP-900.jpg" style="max-width: 550px; height: auto;">
-<br/>
-Issued by Microsoft.  
-(You can add date, credential ID, link, etc. here.)
-<br/>
 
-Microsoft: Azure Data Fundamentals (DP-900)
-<br/>
+Issued by Microsoft.  
+*(Date, credential ID, verification link can be added here.)*
+
+---
+
+## Azure Learning Assessment
+
 <img src="/images/ALA.jpg" style="max-width: 550px; height: auto;">
-<br/>
-Issued by Microsoft.  
-(You can add date, credential ID, link, etc. here.)
-<br/>
 
-Microsoft: Azure Data Fundamentals (DP-900)
-<br/>
-<img src="/images/SML.jpg" style="max-width: 550px; height: auto;">
-<br/>
 Issued by Microsoft.  
-(You can add date, credential ID, link, etc. here.)
+*(Date, credential ID, verification link can be added here.)*
+
+---
+
+## Supervised Machine Learning
+
+<img src="/images/SML.jpg" style="max-width: 550px; height: auto;">
+
+Issued by Microsoft.  
+*(Date, credential ID, verification link can be added here.)*
