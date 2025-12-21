@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Eva Richter / Personal Page"
+title                    : "Personal Page"
 title_separator          : "-"
 name                     : &name "Eva Richter"
 description              : &description ""
