@@ -19,4 +19,4 @@ Zuvor habe ich Linguistik und Übersetzung an der Universität des Saarlandes st
 
 Seitdem interessiert mich besonders, wie Technologie komplexe Sprache verarbeiten und menschliche Kommunikation unterstützen kann. Heute arbeite ich stärker daten- und BI-getrieben, interessiere mich aber weiterhin für NLP-Anwendungen, vor allem in Bereichen wie Healthcare und kognitiver Sprachverarbeitung.
 
-In meiner Freizeit lerne ich gerne neue Sprachen, reise viel und mache gerne viele Fotos 😄.
+In meiner Freizeit lerne ich gerne neue Sprachen, reise viel und mache dabei gerne viele Fotos 😄.
