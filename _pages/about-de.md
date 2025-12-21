@@ -1,5 +1,5 @@
 ---
-title: "👋 Hi,"
+title: "👋 Hallo,"
 permalink: /de/about/
 layout: single
 author_profile: true
