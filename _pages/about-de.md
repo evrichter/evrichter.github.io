@@ -11,7 +11,7 @@ redirect_from:
 
  
 
-ich bin Eva 🙂. Hier möchte ich in Zukunft Projekte und Themen sammeln, mit denen ich mich befasse. Aktuell arbeite ich im Bereich *Data Analytics*, mit einem Fokus auf Datenverständnis, Modellierung und Visualisierung, hauptsächlich im Azure-basierten BI-Umfeld..
+ich bin Eva 🙂. Aktuell arbeite ich im Bereich *Data Analytics*, mit einem Fokus auf Datenverständnis, Modellierung und Visualisierung, hauptsächlich im Azure-basierten BI-Umfeld.
 
 In meinem Masterstudium *Language Science and Technology* an der Universität des Saarlandes habe ich mich intensiv mit *Natural Language Processing*, Psycholinguistik und Sprachtechnologie beschäftigt. Im Rahmen des Studiums habe ich außerdem zwei Auslandssemester an der *Universität Pompeu Fabra* in Barcelona und an der *Karlsuniversität* in Prag verbracht sowie ein Praktikum beim Europäischen Parlament in Brüssel absolviert. Diese Erfahrungen haben mir ermöglicht, praxisnah an NLP-Themen zu arbeiten und in internationalen, interdisziplinären Kontexten Erfahrung zu sammeln.
 
