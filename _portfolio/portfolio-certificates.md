@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Microsoft: Azure Data Fundamentals (DP-900)
-
 Issued by Microsoft.
 
 Microsoft: Azure Data Fundamentals (DP-900)
