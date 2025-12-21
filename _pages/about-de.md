@@ -1,5 +1,5 @@
 ---
-title: "about-de"
+title: "👋 Hi,"
 permalink: /de/about/
 layout: single
 author_profile: true
@@ -9,7 +9,7 @@ redirect_from:
   - /de/about
 ---
 
-👋 Hi, 
+ 
 
 ich bin Eva 🙂. Hier möchte ich in Zukunft Projekte und Themen sammeln, mit denen ich mich befasse. Aktuell arbeite ich im Bereich *Data Analytics*, mit einem Fokus auf Datenverständnis, Modellierung und Visualisierung, hauptsächlich im Azure-basierten BI-Umfeld..
 
