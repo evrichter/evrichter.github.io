@@ -10,7 +10,7 @@ redirect_from:
   - /
 ---
 
-I'm Eva🙂. This website is mainly a personal space for me to keep track of projects, ideas, and things I am learning along the way. Currently, I work in the field of *Data Analytics*, where I focus on understanding data, building models, and creating visualizations, mainly in the Azure-based BI context.
+I'm Eva🙂. Currently, I work in the field of *Data Analytics*, where I focus on understanding data, building models, and creating visualizations, mainly in the Azure-based BI context. This website is mainly a personal space for me to keep track of projects, ideas, and things I am learning along the way.
 
 My academic background is in *Language Science and Technology*, where I studied how language can be processed by computers. During my Master’s at Saarland University, I worked with topics such as *natural language processing*, *psycholinguistics*, and *speech technology*.
 As part of my studies, I spent two exchange semesters at *Pompeu Fabra University* (Barcelona) and *Charles University* (Prague), and completed a traineeship at the *European Parliament* in Brussels. These experiences allowed me to work more deeply on NLP-related topics and gain experience in international and interdisciplinary settings.
