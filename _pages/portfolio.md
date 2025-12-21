@@ -1,8 +1,9 @@
 ---
-layout: archive
 title: "Portfolio"
 permalink: /portfolio/
+layout: single
 author_profile: true
+share: false
 ---
 
 ## Microsoft: Azure Data Fundamentals (DP-900)
